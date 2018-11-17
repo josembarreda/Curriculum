@@ -1,0 +1,9 @@
+Introduce nombre y apellidos
+¿Cual es tu fecha de nacimiento?
+Introduce tu DNI/NIF:
+Introduce tu direccion:
+Codigo Postal:
+¿Que título/s academico/s posees?
+¿En que IES los obtuvistes?
+¿Que experiencia laboral tienes?
+¿Cuales son tus aspiraciones?
