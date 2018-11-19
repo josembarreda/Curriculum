@@ -52,7 +52,7 @@ window= simpledialog.askinteger('Input',preg,
 
 if window is not None:
 	print('Codigo Postal: ', window)
-	fh.write(str(window + '\n'))
+	fh.write(str(window))
 else:
 	pass
 preg=fi.readline()
